@@ -1,4 +1,4 @@
-# Cmput-229---Assignment-2
+# Cmput229 - Computer Organization and Architecture I
 Winter Semester 2023
 
 Lab_Return-AddressStack
