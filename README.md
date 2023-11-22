@@ -1,7 +1,7 @@
 # Cmput229 - Computer Organization and Architecture I
 Winter Semester 2023
 
-Lab_Return-AddressStack
+Return-AddressStack
 
 Code:
 
